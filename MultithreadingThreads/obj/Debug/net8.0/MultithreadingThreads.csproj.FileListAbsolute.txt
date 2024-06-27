@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\MultithreadingThreads\bin\Debug\net8.0\MultithreadingThreads.exe
+C:\Users\48571\source\repos\MultithreadingThreads\bin\Debug\net8.0\MultithreadingThreads.deps.json
+C:\Users\48571\source\repos\MultithreadingThreads\bin\Debug\net8.0\MultithreadingThreads.runtimeconfig.json
+C:\Users\48571\source\repos\MultithreadingThreads\bin\Debug\net8.0\MultithreadingThreads.dll
+C:\Users\48571\source\repos\MultithreadingThreads\bin\Debug\net8.0\MultithreadingThreads.pdb
+C:\Users\48571\source\repos\MultithreadingThreads\obj\Debug\net8.0\MultithreadingThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\MultithreadingThreads\obj\Debug\net8.0\MultithreadingThreads.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\MultithreadingThreads\obj\Debug\net8.0\MultithreadingThreads.AssemblyInfo.cs
+C:\Users\48571\source\repos\MultithreadingThreads\obj\Debug\net8.0\MultithreadingThreads.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\MultithreadingThreads\obj\Debug\net8.0\MultithreadingThreads.dll
+C:\Users\48571\source\repos\MultithreadingThreads\obj\Debug\net8.0\refint\MultithreadingThreads.dll
+C:\Users\48571\source\repos\MultithreadingThreads\obj\Debug\net8.0\MultithreadingThreads.pdb
+C:\Users\48571\source\repos\MultithreadingThreads\obj\Debug\net8.0\MultithreadingThreads.genruntimeconfig.cache
+C:\Users\48571\source\repos\MultithreadingThreads\obj\Debug\net8.0\ref\MultithreadingThreads.dll
